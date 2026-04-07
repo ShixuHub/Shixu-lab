@@ -1,1 +1,1 @@
-# Shixu-lab
+# Shixu lab - cybersecurity learning journey.
